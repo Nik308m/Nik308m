@@ -53,99 +53,99 @@ Somewhere in the vibrant world of technology.
 <section id="certificates">
 
 <div class="certificate">
-    <a href="Certificates/Accenture Coding Development and Advanced North America.pdf" target="_blank">
-        <img src="Certificates/Company Logos/Accenture Logo1.jpg" alt="Accenture Logo" class="company-logo" style="width: 50px; height: 50px; border-radius: 50%;">
+    <a href="Certificates/Accenture Coding Development and Advanced North America.pdf" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: #333;">
+        <img src="Certificates/Company Logos/Accenture Logo1.jpg" alt="Accenture Logo" class="company-logo">
         <span style="background-color: #0077b5; border-radius: 5px; padding: 5px; display: inline-block; margin-left: 10px;">Coding: Development & Advanced Engineering</span>
     </a>
 </div>
 
 <div class="certificate">
-    <a href="Certificates/Accenture Virtual Developer Program.pdf" target="_blank">
-        <img src="Certificates/Company Logos/Accenture Logo1.jpg" alt="Accenture Logo" class="company-logo" style="width: 50px; height: 50px; border-radius: 50%;">
+    <a href="Certificates/Accenture Virtual Developer Program.pdf" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: #333;">
+        <img src="Certificates/Company Logos/Accenture Logo1.jpg" alt="Accenture Logo" class="company-logo">
         <span style="background-color: #0077b5; border-radius: 5px; padding: 5px; display: inline-block; margin-left: 10px;">Developer</span>
     </a>
 </div>
 
 <div class="certificate">
-    <a href="Certificates/AWS Solutions Architecture Virtual Program.pdf" target="_blank">
-        <img src="Certificates/Company Logos/AWS LOGO1.png" alt="AWS Logo" class="company-logo" style="width: 50px; height: 50px; border-radius: 50%;">
+    <a href="Certificates/AWS Solutions Architecture Virtual Program.pdf" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: #333;">
+        <img src="Certificates/Company Logos/AWS LOGO1.png" alt="AWS Logo" class="company-logo">
         <span style="background-color: #FF9900; border-radius: 5px; padding: 5px; display: inline-block; margin-left: 10px;">Solutions Architecture</span>
     </a>
 </div>
 
 <div class="certificate">
-    <a href="Certificates/Cognizant  Agile Methodology Virtual Experience.pdf" target="_blank">
-        <img src="Certificates/Company Logos/Cognizant_Logo1.png" alt="Cognizant Logo" class="company-logo" style="width: 50px; height: 50px; border-radius: 50%;">
+    <a href="Certificates/Cognizant  Agile Methodology Virtual Experience.pdf" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: #333;">
+        <img src="Certificates/Company Logos/Cognizant_Logo1.png" alt="Cognizant Logo" class="company-logo">
         <span style="background-color: #006699; border-radius: 5px; padding: 5px; display: inline-block; margin-left: 10px;">Agile Methodology</span>
     </a>
 </div>
 
 <div class="certificate">
-    <a href="Certificates/HPE Software Engineering.pdf" target="_blank">
-        <img src="Certificates/Company Logos/HPE Logo.png" alt="Hewlett Packard Enterprise Logo" class="company-logo" style="width: 50px; height: 50px; border-radius: 50%;">
+    <a href="Certificates/HPE Software Engineering.pdf" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: #333;">
+        <img src="Certificates/Company Logos/HPE Logo.png" alt="Hewlett Packard Enterprise Logo" class="company-logo">
         <span style="background-color: #0096D6; border-radius: 5px; padding: 5px; display: inline-block; margin-left: 10px;">Software Engineering</span>
     </a>
 </div>
 
 <div class="certificate">
-    <a href="Certificates/Walmart Software Engineering.pdf" target="_blank">
-        <img src="Certificates/Company Logos/Walmart Logo1.png" alt="Walmart Logo" class="company-logo" style="width: 50px; height: 50px; border-radius: 50%;">
+    <a href="Certificates/Walmart Software Engineering.pdf" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: #333;">
+        <img src="Certificates/Company Logos/Walmart Logo1.png" alt="Walmart Logo" class="company-logo">
         <span style="background-color: #007DC5; border-radius: 5px; padding: 5px; display: inline-block; margin-left: 10px;">Advanced Software Engineering</span>
     </a>
 </div>
 
 <div class="certificate">
-    <a href="Certificates/Wells Fargo Software Engineering.pdf" target="_blank">
-        <img src="Certificates/Company Logos/Wells Fargo Logo.png" alt="Wells Fargo Logo" class="company-logo" style="width: 50px; height: 50px; border-radius: 50%;">
+    <a href="Certificates/Wells Fargo Software Engineering.pdf" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: #333;">
+        <img src="Certificates/Company Logos/Wells Fargo Logo.png" alt="Wells Fargo Logo" class="company-logo">
         <span style="background-color: #CE1126; border-radius: 5px; padding: 5px; display: inline-block; margin-left: 10px;">Software Engineering</span>
     </a>
 </div>
 
 <div class="certificate">
-    <a href="Certificates/Hacker Rank_java_basic certificate.pdf" target="_blank">
-        <img src="Certificates/Company Logos/Hacker Rank Logo.png" alt="Hacker Rank Logo" class="company-logo" style="width: 50px; height: 50px; border-radius: 50%;">
+    <a href="Certificates/Hacker Rank_java_basic certificate.pdf" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: #333;">
+        <img src="Certificates/Company Logos/Hacker Rank Logo.png" alt="Hacker Rank Logo" class="company-logo">
         <span style="background-color: #5CB85C; border-radius: 5px; padding: 5px; display: inline-block; margin-left: 10px;">Java (Basic)</span>
     </a>
 </div>
 
 <div class="certificate">
-    <a href="Certificates/Docker Essentials A Developer Introduction.pdf" target="_blank">
-        <img src="Certificates/Company Logos/IBM.png" alt="IBM Logo" class="company-logo" style="width: 50px; height: 50px; border-radius: 50%;">
+    <a href="Certificates/Docker Essentials A Developer Introduction.pdf" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: #333;">
+        <img src="Certificates/Company Logos/IBM.png" alt="IBM Logo" class="company-logo">
         <span style="background-color: #054ADA; border-radius: 5px; padding: 5px; display: inline-block; margin-left: 10px;">Docker Essentials A Developer Introduction</span>
     </a>
 </div>
 
 <div class="certificate">
-    <a href="Certificates/Introduction to Cloud by IBM.pdf" target="_blank">
-        <img src="Certificates/Company Logos/IBM.png" alt="IBM Logo" class="company-logo" style="width: 50px; height: 50px; border-radius: 50%;">
+    <a href="Certificates/Introduction to Cloud by IBM.pdf" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: #333;">
+        <img src="Certificates/Company Logos/IBM.png" alt="IBM Logo" class="company-logo">
         <span style="background-color: #054ADA; border-radius: 5px; padding: 5px; display: inline-block; margin-left: 10px;">Introduction to Cloud</span>
     </a>
 </div>
 
 <div class="certificate">
-    <a href="Certificates/SQL and Relational Databases 101.pdf" target="_blank">
-        <img src="Certificates/Company Logos/IBM.png" alt="IBM Logo" class="company-logo" style="width: 50px; height: 50px; border-radius: 50%;">
+    <a href="Certificates/SQL and Relational Databases 101.pdf" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: #333;">
+        <img src="Certificates/Company Logos/IBM.png" alt="IBM Logo" class="company-logo">
         <span style="background-color: #054ADA; border-radius: 5px; padding: 5px; display: inline-block; margin-left: 10px;">SQL and Relational Databases 101</span>
     </a>
 </div>
 
 <div class="certificate">
-    <a href="Certificates/TCS Young Professional.pdf" target="_blank">
-        <img src="Certificates/Company Logos/TCS LOGO1.jpg" alt="TCS LOGO" class="company-logo" style="width: 50px; height: 50px; border-radius: 50%;">
+    <a href="Certificates/TCS Young Professional.pdf" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: #333;">
+        <img src="Certificates/Company Logos/TCS LOGO1.jpg" alt="TCS LOGO" class="company-logo">
         <span style="background-color: #FF4500; border-radius: 5px; padding: 5px; display: inline-block; margin-left: 10px;">Career Edge-Young Professional</span>
     </a>
 </div>
 
 <div class="certificate">
-    <a href="Certificates/Java and Spring Framework Udemy.pdf" target="_blank">
-        <img src="Certificates/Company Logos/Udemy LOGO.jpg" alt="Udemy LOGO" class="company-logo" style="width: 50px; height: 50px; border-radius: 50%;">
+    <a href="Certificates/Java and Spring Framework Udemy.pdf" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: #333;">
+        <img src="Certificates/Company Logos/Udemy LOGO.jpg" alt="Udemy LOGO" class="company-logo">
         <span style="background-color: #EC5252; border-radius: 5px; padding: 5px; display: inline-block; margin-left: 10px;">Java and Spring Framework for Beginners</span>
     </a>
 </div>
 
 <div class="certificate">
-    <a href="Certificates/PostMan  Certificate.pdf" target="_blank">
-        <img src="Certificates/Company Logos/Postman LOGO.png" alt="Postman LOGO" class="company-logo" style="width: 50px; height: 50px; border-radius: 50%;">
+    <a href="Certificates/PostMan  Certificate.pdf" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: #333;">
+        <img src="Certificates/Company Logos/Postman LOGO.png" alt="Postman LOGO" class="company-logo">
         <span style="background-color: #FF6C37; border-radius: 5px; padding: 5px; display: inline-block; margin-left: 10px;">Postman API Fundamentals</span>
     </a>
 </div>
