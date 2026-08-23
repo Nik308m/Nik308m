@@ -65,6 +65,10 @@ A YouTube-inspired media platform built with Java 17 + Spring Boot for uploading
 
 I'm actively looking for opportunities as a Java Backend Developer. Open to collaboration, technical discussions, and new challenges — feel free to reach out!!!
 
+- 📧 Email: *nik.308m@gmail.com*
+- 💼 LinkedIn: *https://www.linkedin.com/in/nikhil-patil-308k/*
+- 🔗 GitHub: *https://github.com/Nik308m*
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-patil-308k)
 
