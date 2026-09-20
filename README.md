@@ -1,6 +1,7 @@
 <!-- Header with Gifs -->
 <p align="center">
-  <img src="nature-landscape-background GIFS.gif" width="100%" loop=infinite autoplay>
+<!--   <img src="nature-landscape-background GIFS.gif" width="100%" loop=infinite autoplay>   --> 
+  <img src= "Designer.png" >
 </p>
 
 <h1 align="center">Hi there, I'm Nikhil! 👋</h1>
