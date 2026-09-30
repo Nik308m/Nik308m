@@ -190,7 +190,7 @@ modern backend development. 🌱
 I'm interested in **Java Backend Developer opportunities** involving
 Java, Spring Boot, REST APIs, Microservices and enterprise backend systems. 🚀
 
-- 📧 Email: **nik.308m@gmail.com**
+- 📧 Email: **nikhil.308n@gmail.com**
 - 💼 LinkedIn: **[linkedin.com/in/nik-308m](https://www.linkedin.com/in/nik-308m/)**
 - 🔗 GitHub: **[github.com/Nik308m](https://github.com/Nik308m)**
 
